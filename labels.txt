@@ -1,0 +1,2 @@
+0 makanan sehat
+1 makanan tidak sehat
